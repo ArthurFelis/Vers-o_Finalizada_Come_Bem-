@@ -198,9 +198,9 @@ Tipografia: **Fraunces** nos títulos e **Nunito** nos textos.
 
 ## 👤 Autor
 
-**[Seu nome]**
+**Arthur Felis Silva Ferreira**
 
-[GitHub](https://github.com/seu-usuario) · [LinkedIn](https://www.linkedin.com/in/seu-usuario)
+[GitHub](https://github.com/ArthurFelis) 
 
 ---
 
